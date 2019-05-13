@@ -30,7 +30,7 @@ You can set custom options for Reminder. Run:
 
     php artisan vendor:publish
 
-to publish the config file for toastr.
+to publish the config file for contact.
 
 
 
