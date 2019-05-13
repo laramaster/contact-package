@@ -1,6 +1,6 @@
 
 
-# laravel-contact
+# contact-package
 
 
 ### install
