@@ -1,0 +1,19 @@
+{
+    "name": "arafat/contact",
+    "description": "tt",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ArafatDev",
+            "email": "harafat949@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+     "autoload": {
+        "psr-4": {
+            "arafat\\contact\\": "src/"
+        }
+    },
+}
