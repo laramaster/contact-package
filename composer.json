@@ -1,6 +1,6 @@
 {
     "name": "arafat/contact",
-    "description": "tt",
+    "description": "This package send email to admin and send data to database",
     "type": "library",
     "license": "MIT",
     "authors": [
